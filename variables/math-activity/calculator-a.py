@@ -11,14 +11,16 @@ print("Welcome to the calculator!")
 num1 = 1
 num2 = 1
 
-print(str(num1) + " + " + str(num2) + " = ")
+# TODO: fill in the correct operation to print out each of these values
+print(str(num1) + " plus " + str(num2) + " is ")
 
-print(str(num1) + " - " + str(num2) + " = ")
+print(str(num1) + " minus " + str(num2) + " is ")
 
-print(str(num1) + " * " + str(num2) + " = ")
+print(str(num1) + " times " + str(num2) + " is ")
 
-print(str(num1) + " / " + str(num2) + " = ")
+print(str(num1) + " divided by " + str(num2) + " is ")
 
+# hint: what operators have we discussed that you haven't used so far?
 print("The remainder when you divide " + str(num1) + " by " + str(num2) + " is ")
 
 
